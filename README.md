@@ -57,7 +57,7 @@ To run this application locally, follow these steps:
 - Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/simaa99/Json-Server.git
 cd project-directory
 ```
 
