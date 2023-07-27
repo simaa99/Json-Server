@@ -24,10 +24,10 @@ This project is a product management application that allows users to create, vi
 [Live Demo](https://example.com)
 
 ## Screenshots
+![Home Page Screenshot](https://ik.imagekit.io/crv83iwkz/110103.png?updatedAt=1690444964459)
+![Create Page](https://ik.imagekit.io/crv83iwkz/110133.png?updatedAt=1690444964410)
+![Red Page](https://ik.imagekit.io/crv83iwkz/110157.png?updatedAt=1690444964142)
 
-![Home Page]([/screenshots/home.png](https://ik.imagekit.io/crv83iwkz/110103.png?updatedAt=1690444964459)])
-![Create Page]([/screenshots/create.png](https://ik.imagekit.io/crv83iwkz/110133.png?updatedAt=1690444964410))
-![Red Page]([/screenshots/Read.png](https://ik.imagekit.io/crv83iwkz/110157.png?updatedAt=1690444964142))
 
 ## Features
 
